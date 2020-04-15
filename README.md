@@ -64,7 +64,7 @@ Now you can Start the deploy. It can take a few minutes.
 
 * **Orlando Sabogal Rojas** - [osabogal10](https://github.com/osabogal10)
 
-Under the valuable advice of **Pablo Figueroa** - p.figuero@uniandes.edu.co
+Under the valuable advice of **Pablo Figueroa** - pfiguero@uniandes.edu.co
 
 ## License
 
